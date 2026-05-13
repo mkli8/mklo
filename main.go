@@ -9,6 +9,7 @@ import (
 
 func main() {
 	start := time.Now()
+	
 	j := 0
 	for i := 0; i < 990999099; i++ {
 		j += i
