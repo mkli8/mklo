@@ -1,4 +1,5 @@
 // golang
+
 package main
 
 import (
